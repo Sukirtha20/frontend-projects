@@ -53,5 +53,5 @@ Mozilla Firefox
 
 Sukirtha.M
 
-AI & Data Science Student
+AI & DS Student
 Learning Frontend Development
