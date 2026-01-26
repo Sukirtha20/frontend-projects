@@ -51,6 +51,7 @@ Mozilla Firefox
 ---
 👤 Author
 
-Sukirtha
+Sukirtha.M
+
 AI & Data Science Student
 Learning Frontend Development
